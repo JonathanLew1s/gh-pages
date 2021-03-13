@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jonathanlew1s.github.io/gh-pages/sitemap.xml
