@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://jonathanlew1s.github.io/gh-pages/about-me.html",
-            "url": "https://jonathanlew1s.github.io/gh-pages/about-me.html",
+            "id": "https://jonathanlew1s.github.io/gh-pages/about-me/",
+            "url": "https://jonathanlew1s.github.io/gh-pages/about-me/",
             "title": "About Me",
             "summary": "Mid 40's, father to Isabel and Ethan, partner to Jo, IT Director, want to be cyclist, living in South Wales.",
             "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://jonathanlew1s.github.io/gh-pages/media/posts/1/photo_2021-02-28_09-57-18.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://jonathanlew1s.github.io/gh-pages/media/posts/1/responsive/photo_2021-02-28_09-57-18-xs.jpg 300w ,https://jonathanlew1s.github.io/gh-pages/media/posts/1/responsive/photo_2021-02-28_09-57-18-sm.jpg 480w ,https://jonathanlew1s.github.io/gh-pages/media/posts/1/responsive/photo_2021-02-28_09-57-18-md.jpg 768w ,https://jonathanlew1s.github.io/gh-pages/media/posts/1/responsive/photo_2021-02-28_09-57-18-lg.jpg 1024w ,https://jonathanlew1s.github.io/gh-pages/media/posts/1/responsive/photo_2021-02-28_09-57-18-xl.jpg 1360w ,https://jonathanlew1s.github.io/gh-pages/media/posts/1/responsive/photo_2021-02-28_09-57-18-2xl.jpg 1600w\"  alt=\"Me\" width=\"640\" height=\"640\"></figure>\n<p>Mid 40's, father to Isabel and Ethan, partner to Jo, IT Director, want to be cyclist, living in South Wales.</p>",
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2021-03-13T14:10:22+00:00",
-            "date_modified": "2021-03-13T14:27:21+00:00"
+            "date_modified": "2021-03-13T14:38:37+00:00"
         }
     ]
 }
