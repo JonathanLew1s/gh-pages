@@ -199,7 +199,7 @@ layout: default
 | PSA | Public Storage | n/a | Hold / Neutral | Real Estate |
 | RWE.DE | RWE Aktiengesellschaft | n/a | Strong Buy | Utilities |
 | SBAC | SBA Communications Corporation | n/a | Strong Buy | Real Estate |
-| III.L | 3i Group plc | n/a | Review for Buy | Financial Services |
+| III.L | 3i Group Ord | n/a | Review for Buy | Financial Services |
 | FRE.DE | Fresenius SE & Co. KGaA | n/a | Strong Buy | Healthcare |
 | ALGN | Align Technology, Inc. | n/a | Review for Buy | Healthcare |
 | CTAS | Cintas Corporation | n/a | Strong Buy | Industrials |
@@ -257,8 +257,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.9881868610941376        |
-| StochRSI   | 57.66307178822557           |
+| MACD       | 0.9881868610941411        |
+| StochRSI   | 57.66307178822558           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -309,7 +309,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 88.54622516144252        |
+| MACD       | 88.47469589377083        |
 | StochRSI   | 56.103710439928705           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -361,7 +361,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.13340199413596254        |
+| MACD       | -0.13340199413645337        |
 | StochRSI   | 76.72812021390011           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -387,7 +387,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.8136627278925059        |
+| MACD       | 0.8136627278139231        |
 | StochRSI   | 31.71188540793899           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -413,8 +413,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.4540477792319791        |
-| StochRSI   | 94.69037372988792           |
+| MACD       | 0.45404777923822504        |
+| StochRSI   | 94.69037372988794           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -491,7 +491,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 2.1448201703841665        |
+| MACD       | 2.1448201703813243        |
 | StochRSI   | 85.87163060396489           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -517,8 +517,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 7.369582437366844        |
-| StochRSI   | 84.2755232016031           |
+| MACD       | 7.3695753902411525        |
+| StochRSI   | 84.27552320160311           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -543,7 +543,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.46804506482262154        |
+| MACD       | -0.46804506475284857        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -569,7 +569,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 447.0872145112569        |
+| MACD       | 447.0872145112472        |
 | StochRSI   | 0.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -673,8 +673,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 13.022131206964376        |
-| StochRSI   | 77.28364890735052           |
+| MACD       | 13.022131206970638        |
+| StochRSI   | 77.28364890735054           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -699,8 +699,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -1.0768294529509295        |
-| StochRSI   | 86.61740429120859           |
+| MACD       | -1.0768294525737732        |
+| StochRSI   | 86.61740429120862           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -777,7 +777,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -2.1039732263651074        |
+| MACD       | -2.1039731925981835        |
 | StochRSI   | 91.40846694910965           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -803,8 +803,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 5.875040199246679        |
-| StochRSI   | 98.8055948680547           |
+| MACD       | 5.875040199978386        |
+| StochRSI   | 98.80559486805471           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -829,8 +829,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.8032064419199811        |
-| StochRSI   | 44.39234056986913           |
+| MACD       | 0.8032064419178617        |
+| StochRSI   | 44.392340569869134           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -855,7 +855,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.12123556278208314        |
+| MACD       | -0.12123556500473676        |
 | StochRSI   | 92.80804154929804           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -907,7 +907,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.3727938104224109        |
+| MACD       | 1.3727938104223112        |
 | StochRSI   | 79.96621247592316           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -959,7 +959,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.0497487942255805        |
+| MACD       | 1.0497487942695523        |
 | StochRSI   | 61.63436674157854           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -985,8 +985,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.17626286644333117        |
-| StochRSI   | 48.53594248120237           |
+| MACD       | 0.17626286604158942        |
+| StochRSI   | 48.53594248120239           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1011,8 +1011,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.3861998962786631        |
-| StochRSI   | 83.9074060685196           |
+| MACD       | -0.38619989626999723        |
+| StochRSI   | 83.90740606851962           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1063,8 +1063,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.4152759561486499        |
-| StochRSI   | 68.45417941485137           |
+| MACD       | 1.4152759561479469        |
+| StochRSI   | 68.45417941485135           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1115,8 +1115,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -9.562920877773719        |
-| StochRSI   | 98.33962992336701           |
+| MACD       | -9.562920880342586        |
+| StochRSI   | 98.33962992336704           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1141,7 +1141,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.2407144578477765        |
+| MACD       | 1.2407144578409248        |
 | StochRSI   | 69.33665091784262           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1167,7 +1167,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.3014764780812063        |
+| MACD       | 1.3014764826351022        |
 | StochRSI   | 94.59141532330757           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1193,8 +1193,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.42150979063929334        |
-| StochRSI   | 48.270731686034786           |
+| MACD       | -0.20291668490407347        |
+| StochRSI   | 69.21637820103284           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
 
@@ -1211,7 +1211,7 @@ layout: default
 
 | Market | Sector | Size | Currency | Dividend Yield |
 |--------|--------|------|----------|---------------|
-| NYQ | Utilities | n/a | USD | 2.32 |
+| NYQ | Utilities | n/a | USD | 2.3 |
 
 ### 📈 Technical Summary
 
@@ -1219,7 +1219,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.583384354996002        |
+| MACD       | 0.5833843549960027        |
 | StochRSI   | 52.0959780550821           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1271,8 +1271,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.29022998066948735        |
-| StochRSI   | 85.86752048967931           |
+| MACD       | 0.2902299647119627        |
+| StochRSI   | 85.86752048967934           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1323,7 +1323,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -1.5543373958741609        |
+| MACD       | -1.5543373957946547        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1349,7 +1349,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 8.55935505150692        |
+| MACD       | 8.55935505135026        |
 | StochRSI   | 70.25745656385782           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1375,7 +1375,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.5694659888778806        |
+| MACD       | 0.5694659888643041        |
 | StochRSI   | 91.0177422600749           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1401,8 +1401,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.133600294958053        |
-| StochRSI   | 86.39393380706865           |
+| MACD       | 0.13360029600794238        |
+| StochRSI   | 86.39393380706866           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
 
@@ -1453,8 +1453,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.19177038378652822        |
-| StochRSI   | 85.288732563522           |
+| MACD       | -0.19177038378658812        |
+| StochRSI   | 85.28873256352203           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1479,8 +1479,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.1589294619569131        |
-| StochRSI   | 48.38755511066569           |
+| MACD       | 0.1589294620275012        |
+| StochRSI   | 48.387555110665694           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -1505,8 +1505,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.4339873150515484        |
-| StochRSI   | 82.87087497943938           |
+| MACD       | -0.4339873150570208        |
+| StochRSI   | 82.87087497943939           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1531,7 +1531,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 11.6719636540603        |
+| MACD       | 11.67196365406048        |
 | StochRSI   | 18.122294231465556           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -1557,8 +1557,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -2.8780600781232692        |
-| StochRSI   | 93.70974412235465           |
+| MACD       | -2.878060078137369        |
+| StochRSI   | 93.70974412235462           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -1635,7 +1635,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 4.416430272553793        |
+| MACD       | 4.416430272587552        |
 | StochRSI   | 50.62495535729602           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1661,8 +1661,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.6434002616761216        |
-| StochRSI   | 46.507864114541555           |
+| MACD       | 1.6434002616789223        |
+| StochRSI   | 46.50786411454157           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1687,7 +1687,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 17.475281871100847        |
+| MACD       | 17.475281547282737        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1713,7 +1713,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.3825455071897349        |
+| MACD       | -0.3825455062613774        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -1765,8 +1765,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.9416912701460639        |
-| StochRSI   | 91.86801921310062           |
+| MACD       | -0.9416912735621352        |
+| StochRSI   | 91.8680192131006           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1791,7 +1791,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.35444623046675783        |
+| MACD       | 0.3544462304636859        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1817,8 +1817,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.04187662011568151        |
-| StochRSI   | 86.11056574918763           |
+| MACD       | 0.0418766194229344        |
+| StochRSI   | 86.11056574918764           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1869,8 +1869,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.8284540097336055        |
-| StochRSI   | 99.68388125054717           |
+| MACD       | -0.8284540087404823        |
+| StochRSI   | 99.68388125054719           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -1895,7 +1895,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.8788564950840759        |
+| MACD       | -0.8788564948846099        |
 | StochRSI   | 89.92462245359461           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -1921,8 +1921,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -0.44755063139104645        |
-| StochRSI   | 56.25050431721385           |
+| MACD       | -0.44755063150833146        |
+| StochRSI   | 56.250504317213846           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -1973,7 +1973,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.5373985393729186        |
+| MACD       | 1.537398539383905        |
 | StochRSI   | 70.04113220712453           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -2025,7 +2025,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.27209032143473094        |
+| MACD       | -0.2720903214432937        |
 | StochRSI   | 86.58921039264783           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2129,7 +2129,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.288333432564861        |
+| MACD       | 0.28833343247405535        |
 | StochRSI   | 87.98602077897449           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2207,8 +2207,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.13619575635723877        |
-| StochRSI   | 55.103210603851686           |
+| MACD       | -0.1361957563259177        |
+| StochRSI   | 55.103210603851664           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2259,7 +2259,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.9717146707028621        |
+| MACD       | -0.9717146695823753        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2285,8 +2285,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.016166260422583997        |
-| StochRSI   | 64.22251231251386           |
+| MACD       | -0.016166260424480564        |
+| StochRSI   | 64.22251231251384           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2311,8 +2311,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -0.4364223706059613        |
-| StochRSI   | 61.954845915652925           |
+| MACD       | -0.4364223703374689        |
+| StochRSI   | 61.9548459156529           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2337,8 +2337,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -0.3785589238197023        |
-| StochRSI   | 59.09038234879947           |
+| MACD       | -0.3785589241219397        |
+| StochRSI   | 59.090382348799494           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2415,8 +2415,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.06687097152914678        |
-| StochRSI   | 93.5896039948912           |
+| MACD       | 0.0668709715287783        |
+| StochRSI   | 93.58960399489119           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2441,8 +2441,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.12282043756843285        |
-| StochRSI   | 83.9481620575706           |
+| MACD       | -0.12282043756769286        |
+| StochRSI   | 83.94816205757063           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
 
@@ -2493,8 +2493,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 36.79537820898753        |
-| StochRSI   | 74.02318013436202           |
+| MACD       | 36.8010151680719        |
+| StochRSI   | 74.03811020410055           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2519,7 +2519,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.0143018213446333        |
+| MACD       | 1.014301823570929        |
 | StochRSI   | 68.01600742463955           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -2571,7 +2571,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 8.830017229780648        |
+| MACD       | 8.830017229780644        |
 | StochRSI   | 66.93830471632197           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2597,8 +2597,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.8225027784868746        |
-| StochRSI   | 48.07384846050392           |
+| MACD       | 0.8225027782334914        |
+| StochRSI   | 48.07384846050388           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -2623,7 +2623,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -2.229920052084941        |
+| MACD       | -2.2299200512927713        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2649,8 +2649,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.9325741205902933        |
-| StochRSI   | 82.31596941862826           |
+| MACD       | 1.9325741201808646        |
+| StochRSI   | 82.31596941862824           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2675,8 +2675,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.763442981717557        |
-| StochRSI   | 97.78105308674522           |
+| MACD       | 1.763442981679747        |
+| StochRSI   | 97.78105308674525           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2701,7 +2701,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -0.7909267220382062        |
+| MACD       | -0.790926722039162        |
 | StochRSI   | 97.65858712141575           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -2727,8 +2727,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.49543420166943486        |
-| StochRSI   | 76.84910830140599           |
+| MACD       | 0.49543420169053143        |
+| StochRSI   | 76.84910830140598           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -2831,7 +2831,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -6.715857498325189        |
+| MACD       | -6.715857498316598        |
 | StochRSI   | 88.2643901887772           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2857,7 +2857,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.1581087913571252        |
+| MACD       | 0.15810879864640298        |
 | StochRSI   | 99.5348553153499           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2883,7 +2883,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.493620715354678        |
+| MACD       | -0.49362071546835246        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -2909,8 +2909,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 47.19186212269813        |
-| StochRSI   | 28.574995061093976           |
+| MACD       | 47.19186212259281        |
+| StochRSI   | 28.574995061093986           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -2935,7 +2935,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.4594524750277641        |
+| MACD       | -0.4594598963875436        |
 | StochRSI   | 94.04810229744065           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -2987,8 +2987,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.6414352787875874        |
-| StochRSI   | 69.898275265428           |
+| MACD       | 0.6414352787844299        |
+| StochRSI   | 69.89827526542801           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -3065,8 +3065,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -0.3081824779078325        |
-| StochRSI   | 48.851688931455705           |
+| MACD       | -0.3081824778930902        |
+| StochRSI   | 48.8516889314557           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -3143,7 +3143,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 2.8240229088662847        |
+| MACD       | 2.824022908869975        |
 | StochRSI   | 39.27389193814057           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -3195,7 +3195,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -20.98889299005979        |
+| MACD       | -20.98889309707295        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3221,7 +3221,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.14513485438870025        |
+| MACD       | -0.16243356846564128        |
 | StochRSI   | 83.98462409495534           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3247,8 +3247,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 21.37710816319214        |
-| StochRSI   | 43.30555959662112           |
+| MACD       | 21.377108163192162        |
+| StochRSI   | 43.30555959662113           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3299,8 +3299,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.2997683740587579        |
-| StochRSI   | 81.61784961608258           |
+| MACD       | 0.29976837405813433        |
+| StochRSI   | 81.6178496160826           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3325,7 +3325,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.9373507936865817        |
+| MACD       | 1.937350755125549        |
 | StochRSI   | 74.87509834933022           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3351,7 +3351,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -2.854227328787676        |
+| MACD       | -2.8542273287756896        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3377,8 +3377,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.48193962392480905        |
-| StochRSI   | 94.73848599962379           |
+| MACD       | 0.48193962015463643        |
+| StochRSI   | 94.73848599962378           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3429,7 +3429,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.1651215893072646        |
+| MACD       | 0.1651215893059309        |
 | StochRSI   | 99.80643004025278           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3455,8 +3455,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -1.6490860430378458        |
-| StochRSI   | 98.40413093613058           |
+| MACD       | -1.6490860470132234        |
+| StochRSI   | 98.40413093613061           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3481,8 +3481,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.019311787911333422        |
-| StochRSI   | 97.05739772223963           |
+| MACD       | -0.01931178812220205        |
+| StochRSI   | 97.05739772223961           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3507,7 +3507,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 3.849626550739891        |
+| MACD       | 3.8496265506671445        |
 | StochRSI   | 89.45440483216537           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3559,7 +3559,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -1.1895623075422177        |
+| MACD       | -1.1895623075497075        |
 | StochRSI   | 94.71024749200802           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3585,7 +3585,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.2477147113399467        |
+| MACD       | -0.24771471134273915        |
 | StochRSI   | 86.3776921027204           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3611,8 +3611,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.1642283147021935        |
-| StochRSI   | 55.341519651775855           |
+| MACD       | 0.1642283146910366        |
+| StochRSI   | 55.34151965177585           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
 
@@ -3637,8 +3637,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.2668169346796172        |
-| StochRSI   | 53.0342183002642           |
+| MACD       | 0.2668169377599725        |
+| StochRSI   | 53.03421830026419           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -3663,7 +3663,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.9761202685975588        |
+| MACD       | 0.9761202685977095        |
 | StochRSI   | 95.42901420980199           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3689,8 +3689,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.2752022715484711        |
-| StochRSI   | 69.35158445911394           |
+| MACD       | 0.27520227287885785        |
+| StochRSI   | 69.35158445911391           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3715,7 +3715,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.6532940465534935        |
+| MACD       | -0.65329404655302        |
 | StochRSI   | 96.87550661950547           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3793,8 +3793,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 54.76451217237515        |
-| StochRSI   | 83.74711598885784           |
+| MACD       | 54.76431945250802        |
+| StochRSI   | 83.74711598885786           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -3845,7 +3845,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.1505977367086575        |
+| MACD       | -0.15059773699422932        |
 | StochRSI   | 93.51980785480133           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -3871,7 +3871,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.19479633647222874        |
+| MACD       | -0.19479633647221606        |
 | StochRSI   | 76.87215967594545           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -3923,7 +3923,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.1406158806771955        |
+| MACD       | 1.1406158806624365        |
 | StochRSI   | 84.65727226994902           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4001,7 +4001,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.5520363323464765        |
+| MACD       | -0.5520363323464411        |
 | StochRSI   | 74.70288924834892           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4027,8 +4027,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 7.5104812027033345        |
-| StochRSI   | 70.18300786270572           |
+| MACD       | 7.5104812030284585        |
+| StochRSI   | 70.18300786270571           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -4079,7 +4079,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.06710946729307289        |
+| MACD       | -0.06710946729314339        |
 | StochRSI   | 83.20659234510308           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4131,7 +4131,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.1938686142953423        |
+| MACD       | -0.19386758063387505        |
 | StochRSI   | 90.69562154247892           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4157,7 +4157,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.3691439707572877        |
+| MACD       | 1.3691439707570265        |
 | StochRSI   | 89.42353595212201           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4183,7 +4183,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.7666064058178333        |
+| MACD       | 0.766606405821439        |
 | StochRSI   | 85.23743723663625           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4209,7 +4209,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.41394582699391275        |
+| MACD       | 0.4139458272088156        |
 | StochRSI   | 93.08200178133218           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4235,7 +4235,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.0081473934484553        |
+| MACD       | 1.008147393447505        |
 | StochRSI   | 80.74537696711259           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4261,7 +4261,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 3.9254706690952403        |
+| MACD       | 3.9254706690869776        |
 | StochRSI   | 57.051527367945106           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4313,8 +4313,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.8819864976962728        |
-| StochRSI   | 65.91026281691923           |
+| MACD       | 0.881986497696132        |
+| StochRSI   | 65.91026281691926           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -4339,8 +4339,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.3618650609643259        |
-| StochRSI   | 77.14338037983323           |
+| MACD       | 0.36186506207469815        |
+| StochRSI   | 77.14338037983326           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -4365,8 +4365,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.5039791791722505        |
-| StochRSI   | 50.8662768246596           |
+| MACD       | 0.5039791791550402        |
+| StochRSI   | 50.86627682465962           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -4391,8 +4391,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.9597375685013971        |
-| StochRSI   | 59.45483905201457           |
+| MACD       | 1.959737568511363        |
+| StochRSI   | 59.454839052014584           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
 
@@ -4417,7 +4417,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 1.3831188679274027        |
+| MACD       | 1.3831188679336153        |
 | StochRSI   | 81.539344429011           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4469,7 +4469,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.6151319447625555        |
+| MACD       | -0.6151319447626566        |
 | StochRSI   | 92.14842321728919           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4495,7 +4495,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.3640818378092113        |
+| MACD       | -0.36408182739584727        |
 | StochRSI   | 99.4313673390514           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -4521,7 +4521,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 3.0706106541910256        |
+| MACD       | 3.0706106541936444        |
 | StochRSI   | 82.42748038252965           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4547,7 +4547,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 2.6781882356753686        |
+| MACD       | 2.6781882356754325        |
 | StochRSI   | 84.57396274498625           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4573,8 +4573,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 3.0950759507357857        |
-| StochRSI   | 75.52181192957278           |
+| MACD       | 3.0950759530907423        |
+| StochRSI   | 75.52181192957279           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -4599,7 +4599,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 3.248324986014549        |
+| MACD       | 3.24832498623652        |
 | StochRSI   | 10.952335921565444           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4625,7 +4625,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.3887724949969881        |
+| MACD       | -0.38877249499610955        |
 | StochRSI   | 99.86513435438866           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4651,7 +4651,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 47.10671458242064        |
+| MACD       | 47.106714616233695        |
 | StochRSI   | 75.40047239900495           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4677,7 +4677,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.27349447299782687        |
+| MACD       | -0.2734944716886799        |
 | StochRSI   | 75.83890753707607           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4703,7 +4703,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.08905949832777277        |
+| MACD       | 0.0890594983277186        |
 | StochRSI   | 79.18571202219147           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4755,7 +4755,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.218857518838379        |
+| MACD       | 0.21885751883840943        |
 | StochRSI   | 63.80437968810529           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -4781,7 +4781,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -2.98271815360966        |
+| MACD       | -2.982718153843336        |
 | StochRSI   | 92.99973067960833           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4807,7 +4807,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.45321472286235887        |
+| MACD       | 0.45321472265808205        |
 | StochRSI   | 49.530744355650604           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -4833,8 +4833,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 55.91272362661702        |
-| StochRSI   | 96.63252286362507           |
+| MACD       | 55.912735745796624        |
+| StochRSI   | 96.63252286362508           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -4885,7 +4885,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | 1.8775580894292212        |
+| MACD       | 1.877558089439147        |
 | StochRSI   | 87.0520283602944           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -4911,7 +4911,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -12.431844210993514        |
+| MACD       | -12.431844210992825        |
 | StochRSI   | 94.50621224132645           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4937,7 +4937,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.5751475060729535        |
+| MACD       | -0.5751475060725968        |
 | StochRSI   | 97.9226182410663           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4963,7 +4963,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -1.8264266211701683        |
+| MACD       | -1.8264266211701723        |
 | StochRSI   | 75.77035490955137           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -4989,8 +4989,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.26389455156461517        |
-| StochRSI   | 66.86818740664634           |
+| MACD       | 0.26389455156327934        |
+| StochRSI   | 66.86818740664633           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -5015,7 +5015,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -1.171061975517795        |
+| MACD       | -1.1710619755173513        |
 | StochRSI   | 89.24008854433595           |
 | OBV        | Downward          |
 | Divergence | Bullish         |
@@ -5067,7 +5067,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -1.03373052230439        |
+| MACD       | -1.0337305222385842        |
 | StochRSI   | 77.88091654838927           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5093,7 +5093,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.34410894175677065        |
+| MACD       | -0.344108941755943        |
 | StochRSI   | 94.79312517268012           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5145,8 +5145,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | -1.8509483078154934        |
-| StochRSI   | 95.2867369225945           |
+| MACD       | -1.8509483033545924        |
+| StochRSI   | 95.28673692259451           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -5197,7 +5197,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 2.1073906579103556        |
+| MACD       | 2.1073906579083066        |
 | StochRSI   | 44.43495403442773           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5205,7 +5205,7 @@ layout: default
 
 ---
 
-## III.L — 3i Group plc
+## III.L — 3i Group Ord
 
 **Price:** <span style="font-size:1.35em"><b>£4209.00</b></span>  |  **Change:** <span style="font-size:1.35em"><b>n/a</b></span>  |  **Change %:** <span style="font-size:1.35em"><b>n/a</b></span>
 
@@ -5215,7 +5215,7 @@ layout: default
 
 | Market | Sector | Size | Currency | Dividend Yield |
 |--------|--------|------|----------|---------------|
-| LSE | Financial Services | n/a | GBp | 1.55 |
+| LSE | Financial Services | n/a | GBp | 1.54 |
 
 ### 📈 Technical Summary
 
@@ -5301,8 +5301,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.4683328827740185        |
-| StochRSI   | 60.33067527554612           |
+| MACD       | 1.4683328824191546        |
+| StochRSI   | 60.330675275546106           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -5405,8 +5405,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | 0.6962431429160679        |
-| StochRSI   | 17.84608659582544           |
+| MACD       | 0.6962431430172786        |
+| StochRSI   | 17.846086595825444           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
 
@@ -5431,7 +5431,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -1.0028125881263596        |
+| MACD       | -1.00281258813089        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5457,8 +5457,8 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -2.4494686737009794        |
-| StochRSI   | 95.38559975451493           |
+| MACD       | -2.449468673696145        |
+| StochRSI   | 95.38559975451494           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
 
@@ -5483,7 +5483,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.5453145170098712        |
+| MACD       | -0.5453145170190035        |
 | StochRSI   | 84.93633691267529           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5509,7 +5509,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.2612179501545693        |
+| MACD       | 0.26121795015455174        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5587,7 +5587,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Hold / Neutral           |
-| MACD       | 0.027808804725268678        |
+| MACD       | 0.02780880472129459        |
 | StochRSI   | 58.58763613486011           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5665,7 +5665,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.03097435635280307        |
+| MACD       | -0.03097435635280329        |
 | StochRSI   | 94.21247106375334           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -5691,7 +5691,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.4275242675867357        |
+| MACD       | 0.4275242675360463        |
 | StochRSI   | 76.12118428095187           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5743,7 +5743,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -1.041306247574202        |
+| MACD       | -1.0413062477743824        |
 | StochRSI   | 96.37950751510577           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5769,7 +5769,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.382677916244186        |
+| MACD       | -0.38267791622337277        |
 | StochRSI   | 92.96755302160454           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5925,7 +5925,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.2201381717442313        |
+| MACD       | -0.22013817013845183        |
 | StochRSI   | 92.37726663302692           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5951,7 +5951,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 67.16702282656647        |
+| MACD       | 67.16702109549882        |
 | StochRSI   | 76.49837761657365           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -5977,7 +5977,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.04282069814832288        |
+| MACD       | -0.042820697815899936        |
 | StochRSI   | 75.33278295629172           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -6003,7 +6003,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Review for Buy           |
-| MACD       | -0.05880285018389262        |
+| MACD       | -0.05880285018387269        |
 | StochRSI   | 77.52766402103443           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -6055,7 +6055,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 1.1061797515502572        |
+| MACD       | 1.1061797515502578        |
 | StochRSI   | 56.17357760613084           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
@@ -6107,7 +6107,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.23006609250457982        |
+| MACD       | 0.23006609250234927        |
 | StochRSI   | 13.815972344370275           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -6133,7 +6133,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | 0.0736777615935729        |
+| MACD       | 0.07367776158525807        |
 | StochRSI   | 86.2584222235251           |
 | OBV        | Upward          |
 | Divergence | Neutral         |
@@ -6159,7 +6159,7 @@ layout: default
 |------------|-----------------|
 | RS Score   | n/a           |
 | Guidance   | Strong Buy           |
-| MACD       | -0.2803071326608556        |
+| MACD       | -0.2803071326586737        |
 | StochRSI   | 100.0           |
 | OBV        | Upward          |
 | Divergence | Bullish         |
